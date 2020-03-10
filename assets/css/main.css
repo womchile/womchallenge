@@ -126,7 +126,8 @@ em, i {
   font-style: italic; }
 
 p {
-  margin: 0 0 2rem 0; }
+    margin: 367px 0 2rem 0;
+}
 
 header.special {
   text-align: center;
@@ -1971,7 +1972,7 @@ ul.icons {
     font-size: 4rem;
     margin-bottom: 1rem; }
   #banner p {
-    font-size: 1.5rem; }
+    font-size: 2.5rem; }
   #banner a {
     color: rgba(255, 255, 255, 0.5);
     text-decoration: none; }
