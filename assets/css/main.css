@@ -2011,7 +2011,7 @@ ul.icons {
     width: 100%;
     z-index: 1; }
   #banner:after {
-    background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
+    background: linear-gradient(135deg, #c1c1c1 0%, #a0889d00 74%);
     content: ' ';
     display: block;
     height: 100%;
@@ -2059,16 +2059,16 @@ ul.icons {
 
 /* CTA */
 #cta {
-  background-color: #ce1b28;
-  color: rgba(255, 255, 255, 0.75);
-  background-attachment: fixed;
-  background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/cta01.jpg);
-  background-position: bottom;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  text-align: center;
-  z-index: 1; }
+  
+  
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(52, 29, 78, 0.66), rgba(113, 4, 70, 0.25)), url(../../images/cta01.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    z-index: 1;
   #cta input, #cta select, #cta textarea {
     color: #ffffff; }
   #cta a {
